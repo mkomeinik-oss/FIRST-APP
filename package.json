@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "expo": "57"
+  },
+  "devDependencies": {
+    "@expo/ngrok": "^4.1.0",
+    "@types/react": "~19.2.4",
+    "typescript": "~6.0.3"
+  }
+}
