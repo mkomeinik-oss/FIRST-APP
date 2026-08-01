@@ -7,9 +7,9 @@ export default function App() {
     <View style={styles.container}>
       <Text> welcome to my app</Text>
       <Text> Please enter your name</Text>
-      <TextInput placeholder="John" />
+      <TextInput placeholder="John" autoCapitalize="words" />
       <Text> Please enter your surname</Text>
-      <TextInput placeholder="Doe" />
+      <TextInput placeholder="Doe" autoCapitalize="words" />
 
       <Button title = "Add user" />
 
